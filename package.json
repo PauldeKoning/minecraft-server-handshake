@@ -1,0 +1,13 @@
+{
+  "name": "minecraft-server-handshake",
+  "version": "1.0.0",
+  "description": "Spoofs a Minecraft Server Handshake.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "https://github.com/PauldeKoning",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "leb128": "^0.0.5"
+  }
+}
