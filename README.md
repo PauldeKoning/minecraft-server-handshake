@@ -23,7 +23,7 @@ const response = {
         "online": 0
     },
     "description": {
-        "text": " Minecraft Server Motd"
+        "text": "Minecraft Server Motd"
     },
     "favicon": "data:image/png;base64,<data>"
 };
